@@ -965,6 +965,7 @@ blogspot\.com
 ^([^/]+\.)*google\.(se|sh|si|sk|sm|sn|so|sr|st|td)$
 ^([^/]+\.)*google\.(tg|tk|tl|tm|tn|to|tt|us|vg|vn)$
 ^([^/]+\.)*google\.(vu|ws)$
+(^|\.)googleapis\.cn
 (^|\.)googleapps\.com
 (^|\.)googleartproject\.com
 (^|\.)googleblog\.com
